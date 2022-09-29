@@ -15,4 +15,3 @@ seconds = time_input
 
 # Output
 print(f"Hours:Minutes:Seconds -> {hour}:{minutes}:{seconds}")
-
